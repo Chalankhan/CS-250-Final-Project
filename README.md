@@ -1,5 +1,6 @@
 # CS-250-Final-Project
 Contains my Sprint Review and Retrospective and my PowerPoint Presentation from my CS 250 Final Project.
+
 **How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 
 Communication is a major componenet when it comes interpreting and implementing user needs into a program. To start, one must
