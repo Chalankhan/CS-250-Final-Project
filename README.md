@@ -18,3 +18,7 @@ incorporate in my future work include sprint planning, daily stand-ups, sprint r
 
 **What does it mean to be a good team member in software development?**
 
+Qualities of a good team member should include the ability to communicate effectively, be reliable, and be actively 
+contributing to both the project and the team's collaborative environment. Having empathy, respect for different perspectives, 
+and a willingness to help others resolve challenges are also important characteristics of a good team member. In an Agile 
+environment, participating in ceremonies, sharing feedback, and accountability are essential for team success.
