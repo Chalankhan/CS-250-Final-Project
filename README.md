@@ -9,3 +9,12 @@ next step in this process. If it is determined that the provided information is 
 communication must be exercised and questions must be asked to ensure that development is going in the right direction.
 User stories are a crucial part in the process as it helps keep the team organized on project requirements by outlining 
 brief and descriptive statements of the client's needs.
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+
+When approaching program development, I tend to use a more iterative and incremental method. Making smaller functional parts 
+of the project and getting early feedback helps me to improve and deliver a quality product. Agile processes that I hope to 
+incorporate in my future work include sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+
+**What does it mean to be a good team member in software development?**
+
