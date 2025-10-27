@@ -7,3 +7,5 @@ Communication is a major componenet when it comes interpreting and implementing 
 carefully read and understand the requirements of the project. Identifying what the problem is and how it will be solved is the
 next step in this process. If it is determined that the provided information is too broad and further clarification is needed, 
 communication must be exercised and questions must be asked to ensure that development is going in the right direction.
+User stories are a crucial part in the process as it helps keep the team organized on project requirements by outlining 
+brief and descriptive statements of the client's needs.
